@@ -1,6 +1,6 @@
-# PDF-Based RAG Chatbot
+# PDF-Based RAG PipeLine
 
-A Retrieval-Augmented Generation (RAG) chatbot built with **LangChain, ChromaDB, and OpenRouter**. It allows users to ask questions about PDF documents and generates answers using relevant information retrieved from those documents.
+A Retrieval-Augmented Generation (RAG) Pipeline built with **LangChain, ChromaDB, and OpenRouter**. It allows users to ask questions about PDF documents and generates answers using relevant information retrieved from those documents.
 
 ## Overview
 
